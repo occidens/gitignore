@@ -3,3 +3,8 @@
 
 # Packaging
 .cask
+
+# Emacs backup, autosave, and lock files
+*~
+\#*\#
+.\#*
